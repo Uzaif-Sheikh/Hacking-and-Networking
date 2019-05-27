@@ -1,0 +1,29 @@
+Hola, Anonymous ponemos a disposicion para todos vosotros el HOIC una derivada version mas potente del LOIC una de 
+nuestras mejores armas para luchar a favor del conocimiento libre. 
+
+
+HOIC es bastante inútil.
+Si no se utiliza incombination con "refuerzos", también conocido como "scripts" / BOOST PAQUETES / PODER BOOM BOOM 
+que el grupo de Anonymous pone a vuestra disposicion para todos sus miembros.
+Estos refuerzos se presentan en forma de scripts.
+
+
+Estos scripts son VB6 muy simple y VB6 mezclada con la sintaxis de vb.net, aunque un poco alterado.
+estos son las funciones y variables globales que utilizaremos para potenciar nuestra nueva arma Anonymous High Orbit Ion 
+Cannon
+
+Refuerzo -> Esta es una variable global que contiene el contenido del script actual (cadena)
+Encabezados -> Esta es una variable global que es una matriz de cadenas, y se utiliza para formar las cabeceras de las 
+peticiones enviadas a la dirección URL de destino. 
+Para agregar un encabezado, simplemente hacer algo como esto:
+Headers.Append ("User-Agent: penis") o Headers.Append ("User-Agent: penis x" + CStr (factor de potencia)
+
+lbIndex -> Índice en la caja de lista (puedo realmente ser utilizado fuera del programa)
+PostBuffer -> buffer de la cadena containig paramets mensaje, es decir, postBuffer = "lol = 2 & lolxd = 5"
+Factor de potencia -> Entero 0-2, donde 0 es baja, un medio que, siendo dos de alta
+Totalbytessent -> a la cuenta del número de bytes enviados a la meta ya (a través de persistentes de cada ataque)
+URL -> url para atacar
+UsePost -> boolean, = true = usa correo.
+
+Gracias al miembro de Anonymous CrashOverrider por la modificacion del HOIC y la extraccion del troyano implementado 
+con el arma.
